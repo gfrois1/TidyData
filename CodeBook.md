@@ -4,7 +4,7 @@ author: "gfrois"
 date: "24 December 2015"
 output: html_document
 ---
-CodeBook of Get and Clean Data Project
+CodeBook of Get and Clean Data Project 
 
 Source:
 
